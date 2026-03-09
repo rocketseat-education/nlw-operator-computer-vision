@@ -1,6 +1,6 @@
-# 🚀 NLW 2026 — Jornada de Visão Computacional
+# 🚀 NLW 2026 — Trilha Python: Visão Computacional
 
-Bem-vindo ao repositório do projeto **NLW 2026 Visão Computacional**. Este workspace contém uma coleção de projetos e experimentos desenvolvidos durante a jornada NLW da Rocketseat, focando em Deep Learning, Reconhecimento de Gestos em tempo real e técnicas avançadas de Visão Computacional.
+Bem-vindo ao repositório do projeto **NLW 2026 Visão Computacional**. Este workspace contém uma coleção de projetos e experimentos desenvolvidos durante a trilha Python de Visão Computacional da NLW 2026 da Rocketseat, focando em Deep Learning, Reconhecimento de Gestos em tempo real e técnicas avançadas de Visão Computacional.
 
 ---
 
